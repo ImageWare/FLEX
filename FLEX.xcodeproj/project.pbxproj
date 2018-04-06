@@ -815,7 +815,7 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = FLEX;
-				LastUpgradeCheck = 0900;
+				LastUpgradeCheck = 0920;
 				ORGANIZATIONNAME = Flipboard;
 				TargetAttributes = {
 					1C27A8B51F0E5A0300F0D02D = {
@@ -1107,7 +1107,7 @@
 		3A4C94361B5B20570088C3F2 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = B6ZDV9VE3Y;
@@ -1131,7 +1131,7 @@
 		3A4C94371B5B20570088C3F2 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
 				CODE_SIGN_STYLE = Automatic;
 				DEFINES_MODULE = YES;
 				DEVELOPMENT_TEAM = B6ZDV9VE3Y;
